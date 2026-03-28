@@ -1,6 +1,6 @@
 # 🎯 Virtual Try-On Scorer
 
-**English** | [简体中文](./README.md)
+> **English** | [简体中文](./README.md)
 
 An Agent Skill for evaluating the quality of AI-powered virtual try-on (VTON) results. It performs structured scoring across four dimensions: identity preservation, garment fidelity, body consistency, and background stability.
 
