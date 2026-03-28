@@ -4,8 +4,7 @@
 
 An Agent Skill for evaluating the quality of AI-powered virtual try-on (VTON) results. It performs structured scoring across four dimensions: identity preservation, garment fidelity, body consistency, and background stability.
 
-![Uploading image.png…]()
-
+<img width="3991" height="1202" alt="image" src="https://github.com/user-attachments/assets/22312583-ee31-4e93-88af-bb42705e74e8" />
 
 ## ✨ Features
 
