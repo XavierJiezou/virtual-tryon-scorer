@@ -1,6 +1,6 @@
 # 🎯 Virtual Try-On Scorer（虚拟试穿效果打分）
 
-[English](./README.en.md) | **简体中文**
+> [English](./README.en.md) | **简体中文**
 
 一个用于评估 AI 虚拟试穿（VTON）效果质量的 Agent Skill。通过分析身份保持、服装还原、身体一致性和背景稳定性四个维度，对试穿结果进行结构化评分。
 
