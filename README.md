@@ -4,7 +4,7 @@
 
 一个用于评估 AI 虚拟试穿（VTON）效果质量的 Agent Skill。通过分析身份保持、服装还原、身体一致性和背景稳定性四个维度，对试穿结果进行结构化评分。
 
-![Uploading image.png…]()
+<img width="3991" height="1202" alt="image" src="https://github.com/user-attachments/assets/1f53853c-42c7-4f50-b2af-f696c71d1b0c" />
 
 ## ✨ 功能特点
 
